@@ -1,4 +1,4 @@
-![](Documentation/Tantech.png)
+![](Documentation/TANtech.png)
 
 # MyClimate
 
